@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "subject": "Maths",
+    "specCode": "Edexcel- 1MA1",
+    "topicCode": "6.1 - cumulative frequency graphs (part 3)",
+    "topicTitle": "6.1 - Cumulative frequency graphs (Part 3)"
+  },
+  "objectives": [
+    "Students should use cumulative frequency graphs to determine how many data values fall below or above certain thresholds (Maths 6.1)",
+    "Students should interpret cumulative frequency graphs to compare distributions (Maths 6.1)",
+    "Students should estimate the median, quartiles, and interquartile range from cumulative frequency graphs (Maths 6.1)"
+  ],
+  "keyConcepts": [
+    {
+      "concept": "Cumulative Frequency",
+      "explanation": "A running total of frequencies which shows the number of data points below a particular value."
+    },
+    {
+      "concept": "Median and Quartiles from Graphs",
+      "explanation": "The median is the value below which 50% of data lies; quartiles divide data into four equal parts and can be estimated using cumulative frequency graphs."
+    },
+    {
+      "concept": "Interquartile Range (IQR)",
+      "explanation": "The difference between the upper quartile (Q3) and the lower quartile (Q1), showing the spread of the middle 50% of data."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Introduction to Cumulative Frequency Graphs",
+      "content": "A cumulative frequency graph helps us understand data by showing the total number of observations below a certain value. It is useful for finding medians, quartiles, and making comparisons between data sets."
+    },
+    {
+      "title": "Multiple Choice Question: Interpreting the Graph",
+      "content": "If a cumulative frequency graph shows 40 data points below the value 50, what does this tell us?",
+      "questions": [
+        {
+          "question": "What does the cumulative frequency represent at value 50?",
+          "options": [
+            "The total number of data points",
+            "The number of data points below 50",
+            "The number of data points above 50",
+            "The maximum value in the data"
+          ],
+          "answer": "The number of data points below 50",
+          "explanation": "Cumulative frequency at a value gives the total count of observations less than or equal to that value."
+        }
+      ]
+    },
+    {
+      "title": "Dropdown Cloze: Estimating Median and Quartiles",
+      "content": "From a cumulative frequency graph, the median corresponds to the value where the cumulative frequency reaches",
+      "questions": [
+        {
+          "sentence": "The median is at the cumulative frequency value of ____. This is the point where ____% of data lies below it.",
+          "dropdowns": [
+            {
+              "options": ["half the total frequency", "the total frequency", "zero"],
+              "answer": "half the total frequency"
+            },
+            {
+              "options": ["50", "25", "75"],
+              "answer": "50"
+            }
+          ]
+        },
+        {
+          "sentence": "The lower quartile (Q1) is found at ____% of the total frequency, and the upper quartile (Q3) is at ____%.",
+          "dropdowns": [
+            {
+              "options": ["25", "50", "75"],
+              "answer": "25"
+            },
+            {
+              "options": ["50", "75", "100"],
+              "answer": "75"
+            }
+          ]
+        },
+        {
+          "sentence": "The interquartile range (IQR) is the difference between ____ and ____.",
+          "dropdowns": [
+            {
+              "options": ["median", "Q1", "Q3"],
+              "answer": "Q3"
+            },
+            {
+              "options": ["median", "Q1", "Q3"],
+              "answer": "Q1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Summary Cloze: What You Should Remember",
+      "content": "Cumulative frequency graphs help us find key values like the median, lower quartile, and upper quartile by looking at",
+      "questions": [
+        {
+          "sentence": "The cumulative frequency graph shows the ____ of data points below a value.",
+          "dropdowns": [
+            {
+              "options": ["number", "percentage", "range"],
+              "answer": "number"
+            }
+          ]
+        },
+        {
+          "sentence": "The median represents the value below which ____% of data falls.",
+          "dropdowns": [
+            {
+              "options": ["50", "25", "75"],
+              "answer": "50"
+            }
+          ]
+        },
+        {
+          "sentence": "The interquartile range gives the ____ of the middle 50% of the data.",
+          "dropdowns": [
+            {
+              "options": ["spread", "mean", "total"],
+              "answer": "spread"
+            }
+          ]
+        }
+      ]
+    },
+    {
+    "title": "Practice Question: Using a Cumulative Frequency Graph",
+    "content": "A cumulative frequency graph for the scores of 60 students is shown. Use the graph to estimate:",
+    "questions": [
+      {
+        "question": "Approximately how many students scored less than 40?",
+        "type": "shortAnswer",
+        "answer": "25",
+        "explanation": "At score 40, the cumulative frequency is about 25, showing 25 students scored below 40."
+      },
+      {
+        "question": "Estimate the median score.",
+        "type": "shortAnswer",
+        "answer": "50",
+        "explanation": "The median corresponds to half of 60, which is 30 cumulative frequency; at cumulative frequency 30, the score is about 50."
+      },
+      {
+        "question": "Find the interquartile range (IQR).",
+        "type": "shortAnswer",
+        "answer": "20",
+        "explanation": "The lower quartile (Q1) at 15 students is around 40, and the upper quartile (Q3) at 45 students is around 60, so IQR = 60 - 40 = 20."
+      }
+    ]
+  }
+  ]
+}
