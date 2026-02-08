@@ -1,0 +1,178 @@
+{
+  "lessonContent": {
+    "metadata": {
+      "subject": "Maths",
+      "specCode": "Edexcel- 1MA1",
+      "topicCode": "6.1 - cumulative frequency graphs (part 3)",
+      "topicTitle": "6.1 - Cumulative frequency graphs (Part 3)"
+    },
+    "objectives": [
+      "Students should use cumulative frequency graphs to determine how many data values fall below or above certain thresholds (Maths 6.1)",
+      "Students should interpret cumulative frequency graphs to compare distributions (Maths 6.1)",
+      "Students should estimate the median, quartiles, and interquartile range from cumulative frequency graphs (Maths 6.1)"
+    ],
+    "keyConcepts": [
+      {
+        "concept": "Cumulative Frequency Graph",
+        "explanation": "A graph that shows the cumulative total of frequencies up to each class boundary, helping to understand the accumulation of data values."
+      },
+      {
+        "concept": "Median and Quartiles",
+        "explanation": "The median divides data into two equal halves, while quartiles split data into four equal parts, which can be estimated from cumulative frequency graphs."
+      },
+      {
+        "concept": "Interquartile Range (IQR)",
+        "explanation": "The difference between the third quartile (Q3) and the first quartile (Q1), representing the spread of the middle 50% of data."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Introduction to Cumulative Frequency Graphs",
+        "content": "In this lesson, we will learn how to use cumulative frequency graphs to find how many data values fall above or below certain thresholds. We will also explore how to interpret these graphs to compare different data sets and estimate key statistics like the median, quartiles, and interquartile range.",
+        "questions": []
+      },
+      {
+        "title": "Multiple Choice Question: Using Cumulative Frequency Graphs",
+        "content": "If a cumulative frequency graph shows a frequency of 30 at a value of 50, what does this mean?",
+        "questions": [
+          {
+            "type": "multipleChoice",
+            "prompt": "Select the correct interpretation:",
+            "options": [
+              "There are 30 data values greater than 50",
+              "There are 30 data values less than or equal to 50",
+              "The median value is 30",
+              "The frequency at exactly 50 is 30"
+            ],
+            "answer": 1,
+            "explanation": "The cumulative frequency at 50 is 30 means there are 30 data values less than or equal to 50."
+          }
+        ]
+      },
+      {
+        "title": "Dropdown Cloze Questions: Estimating Median and Quartiles",
+        "content": "Use the cumulative frequency graph to estimate the <dropdown1> from the data. \n\nThe median is the value that divides the data into two equal parts, so it corresponds to the cumulative frequency at <dropdown2> of the total data.",
+        "questions": [
+          {
+            "type": "dropdownCloze",
+            "text": "The <dropdown1> corresponds to the middle value in the dataset.",
+            "dropdowns": [
+              {
+                "placeholder": "Select statistic",
+                "options": ["median", "mean", "mode", "range"],
+                "answer": "median"
+              }
+            ]
+          },
+          {
+            "type": "dropdownCloze",
+            "text": "It is found at <dropdown2> of the total cumulative frequency.",
+            "dropdowns": [
+              {
+                "placeholder": "Select fraction",
+                "options": ["one quarter", "one half", "three quarters", "all"],
+                "answer": "one half"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Summary Cloze: Key Points About Cumulative Frequency Graphs",
+        "content": "Fill in the blanks to summarize the key points.\n\nA cumulative frequency graph shows how frequencies accumulate across values. To find the <dropdown1>, locate the point where cumulative frequency is <dropdown2> of the total. Quartiles split data into <dropdown3> parts. The interquartile range is <dropdown4> minus <dropdown5>.",
+        "questions": [
+          {
+            "type": "dropdownCloze",
+            "text": "The <dropdown1> divides the data into two equal halves.",
+            "dropdowns": [
+              {
+                "placeholder": "Select term",
+                "options": ["median", "mean", "mode", "range"],
+                "answer": "median"
+              }
+            ]
+          },
+          {
+            "type": "dropdownCloze",
+            "text": "The median corresponds to <dropdown2> of the total frequency.",
+            "dropdowns": [
+              {
+                "placeholder": "Select fraction",
+                "options": ["one half", "one quarter", "three quarters", "all"],
+                "answer": "one half"
+              }
+            ]
+          },
+          {
+            "type": "dropdownCloze",
+            "text": "Quartiles divide the data into <dropdown3> parts.",
+            "dropdowns": [
+              {
+                "placeholder": "Select number",
+                "options": ["2", "3", "4", "5"],
+                "answer": "4"
+              }
+            ]
+          },
+          {
+            "type": "dropdownCloze",
+            "text": "The interquartile range is Q3 <dropdown4> Q1.",
+            "dropdowns": [
+              {
+                "placeholder": "Select operator",
+                "options": ["plus", "minus", "times", "divided by"],
+                "answer": "minus"
+              }
+            ]
+          },
+          {
+            "type": "dropdownCloze",
+            "text": "Where Q3 is the <dropdown5> quartile and Q1 is the <dropdown6> quartile.",
+            "dropdowns": [
+              {
+                "placeholder": "Select adjective",
+                "options": ["third", "first", "second", "fourth"],
+                "answer": "third"
+              },
+              {
+                "placeholder": "Select adjective",
+                "options": ["first", "second", "third", "fourth"],
+                "answer": "first"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Practice Question: Estimating Statistics from a Cumulative Frequency Graph",
+        "content": "A cumulative frequency graph shows total frequencies accumulating to 80 data points.\n\nUsing this graph, estimate:\n1) The median\n2) The first quartile (Q1)\n3) The third quartile (Q3)\n4) The interquartile range (IQR)\n\nExplain how you found each value.",
+        "questions": [
+          {
+            "type": "shortAnswer",
+            "prompt": "Estimate the median value:",
+            "answer": "Value corresponding to cumulative frequency 40 (half of 80)",
+            "explanation": "Locate the cumulative frequency 40 on the y-axis and read the corresponding x-value from the graph."
+          },
+          {
+            "type": "shortAnswer",
+            "prompt": "Estimate the first quartile (Q1):",
+            "answer": "Value corresponding to cumulative frequency 20 (one quarter of 80)",
+            "explanation": "Locate the cumulative frequency 20 on the y-axis and read the corresponding x-value from the graph."
+          },
+          {
+            "type": "shortAnswer",
+            "prompt": "Estimate the third quartile (Q3):",
+            "answer": "Value corresponding to cumulative frequency 60 (three quarters of 80)",
+            "explanation": "Locate the cumulative frequency 60 on the y-axis and read the corresponding x-value from the graph."
+          },
+          {
+            "type": "shortAnswer",
+            "prompt": "Calculate the interquartile range (IQR):",
+            "answer": "IQR = Q3 - Q1",
+            "explanation": "Subtract the estimated Q1 value from the estimated Q3 value to find the interquartile range."
+          }
+        ]
+      }
+    ]
+  }
+}
