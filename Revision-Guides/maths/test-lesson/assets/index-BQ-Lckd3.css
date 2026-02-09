@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "subject": "Maths",
+    "specCode": "Edexcel- 1MA1",
+    "topicCode": "6.1 - cumulative frequency graphs (part 3)",
+    "topicTitle": "6.1 - Cumulative frequency graphs (Part 3)"
+  },
+  "objectives": [
+    "Students should use cumulative frequency graphs to determine how many data values fall below or above certain thresholds (Maths 6.1)",
+    "Students should interpret cumulative frequency graphs to compare distributions (Maths 6.1)",
+    "Students should estimate the median, quartiles, and interquartile range from cumulative frequency graphs (Maths 6.1)"
+  ],
+  "keyConcepts": [
+    {
+      "concept": "Reading cumulative frequency graphs",
+      "explanation": "Cumulative frequency graphs are used to show the cumulative total of data points up to different values, helping to visualize the distribution of data."
+    },
+    {
+      "concept": "Estimating median and quartiles from the graph",
+      "explanation": "The median is the data value at which 50% of data points lie below, while quartiles divide data into four equal parts; these can be estimated by drawing lines from the cumulative frequency axis to the scale axis on the graph."
+    },
+    {
+      "concept": "Using cumulative frequency graphs to compare datasets",
+      "explanation": "By comparing cumulative frequency graphs of different datasets on the same axes, you can visually assess differences in distribution, spread, and central tendency."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Introduction to Cumulative Frequency Graphs",
+      "content": "Cumulative frequency graphs display the total number of data points less than or equal to a particular value. They are useful for understanding data distribution, finding medians, quartiles, and comparing datasets.",
+      "questions": []
+    },
+    {
+      "title": "Multiple Choice Question: Reading a Cumulative Frequency Graph",
+      "content": "Look at a cumulative frequency graph showing the heights of students. If 30 students have heights below 160 cm, what does the cumulative frequency graph show at 160 cm?",
+      "questions": [
+        {
+          "type": "multipleChoice",
+          "question": "What is the cumulative frequency value at 160 cm on the graph?",
+          "options": [
+            "The number of students with height exactly 160 cm",
+            "The total number of students with height below 160 cm",
+            "The total number of students with height 160 cm or less",
+            "The average height of the students"
+          ],
+          "answer": "The total number of students with height 160 cm or less",
+          "explanation": "The cumulative frequency value at 160 cm represents the total number of students with height less than or equal to 160 cm."
+        }
+      ]
+    },
+    {
+      "title": "Dropdown Cloze: Understanding Median and Quartiles",
+      "content": "Fill in the blanks to complete the sentences about median and quartiles on a cumulative frequency graph.",
+      "questions": [
+        {
+          "type": "dropdownCloze",
+          "text": "The median is the value that divides the data into two equal parts, located at ____% of the total frequency. The first quartile (Q1) is at ____%, and the third quartile (Q3) is at ____%.",
+          "options": [
+            ["50", "25", "75"]
+          ],
+          "answers": ["50", "25", "75"],
+          "explanation": "Median corresponds to 50% of the total frequency, Q1 to 25%, and Q3 to 75%, representing key points on the cumulative frequency graph."
+        }
+      ]
+    },
+    {
+      "title": "Summary Cloze: Key Points of Cumulative Frequency Graphs",
+      "content": "Complete the summary by selecting the correct terms.",
+      "questions": [
+        {
+          "type": "dropdownCloze",
+          "text": "Cumulative frequency graphs help to find the _____ (median/mean) and _____ (quartiles/percentiles) of a dataset. By drawing horizontal lines from the frequency axis and vertical lines down to the data axis, you can estimate these values. These graphs are also excellent for _____ (comparing/summarizing) different data distributions visually.",
+          "options": [
+            ["median", "mean"],
+            ["quartiles", "percentiles"],
+            ["comparing", "summarizing"]
+          ],
+          "answers": ["median", "quartiles", "comparing"],
+          "explanation": "Medians and quartiles are estimated using cumulative frequency graphs, which are useful to compare different data distributions."
+        }
+      ]
+    },
+    {
+      "title": "Practice Question: Estimating the Median",
+      "content": "A cumulative frequency graph shows total frequencies for test scores out of 100. The total number of students is 60. Estimate the median score using the graph.",
+      "questions": [
+        {
+          "type": "practice",
+          "question": "If the 50% cumulative frequency corresponds to a score of 72, what is the median score?",
+          "answer": "72",
+          "explanation": "The median is the score at which 50% of the students scored below or equal to it, so if the cumulative frequency at 50% total frequency is 72, the median is 72."
+        }
+      ]
+    }
+  ]
+}
