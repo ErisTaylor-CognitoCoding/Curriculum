@@ -1,0 +1,149 @@
+window.lessonContent = {
+  "metadata": {
+    "subject": "Maths",
+    "specCode": "Edexcel- 1MA1",
+    "topicCode": "6.1 - cumulative frequency graphs (part 3)",
+    "topicTitle": "6.1 - Cumulative frequency graphs (Part 3)"
+  },
+  "objectives": [
+    "Students should use cumulative frequency graphs to determine how many data values fall below or above certain thresholds (Maths 6.1)",
+    "Students should interpret cumulative frequency graphs to compare distributions (Maths 6.1)",
+    "Students should estimate the median, quartiles, and interquartile range from cumulative frequency graphs (Maths 6.1)"
+  ],
+  "keyConcepts": [
+    {
+      "concept": "Reading values from cumulative frequency graphs",
+      "explanation": "Cumulative frequency graphs represent the running total of frequencies up to certain data values, allowing you to find how many data points fall below a specific value."
+    },
+    {
+      "concept": "Estimating median and quartiles",
+      "explanation": "The median is the data value at the 50th percentile, and quartiles are at the 25th and 75th percentiles. These can be estimated by locating the corresponding cumulative frequency on the graph and then reading off the data value."
+    },
+    {
+      "concept": "Comparing distributions using cumulative frequency graphs",
+      "explanation": "By comparing the shapes and positions of cumulative frequency graphs, you can analyze differences in data sets regarding spread, median, and skewness."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Introduction to Cumulative Frequency Graphs",
+      "content": "Cumulative frequency graphs are used to show the accumulation of data points up to certain values. In this lesson, you will learn how to interpret these graphs to find data below or above specific thresholds, estimate median and quartiles, and compare different data distributions."
+    },
+    {
+      "title": "Multiple Choice Question: Reading Values",
+      "content": "If a cumulative frequency graph shows a cumulative frequency of 30 at a data value of 15, what does this mean?",
+      "questions": [
+        {
+          "question": "What information can you gather from the point where data value is 15 and cumulative frequency is 30?",
+          "options": [
+            "There are 30 data values less than or equal to 15",
+            "There are exactly 15 data values equal to 30",
+            "There are 15 data values less than or equal to 30",
+            "There are 30 data values greater than 15"
+          ],
+          "answer": "There are 30 data values less than or equal to 15",
+          "explanation": "The cumulative frequency at a data value tells how many data points have values less than or equal to that number."
+        }
+      ]
+    },
+    {
+      "title": "Dropdown Cloze: Median and Quartiles",
+      "content": "Fill in the blanks to estimate the median and quartiles from a cumulative frequency graph.",
+      "questions": [
+        {
+          "sentence": "The median corresponds to the _____ percentile, which is ____% of the data.",
+          "dropdowns": [
+            {
+              "options": ["25th", "50th", "75th"],
+              "answer": "50th"
+            },
+            {
+              "options": ["25", "50", "75"],
+              "answer": "50"
+            }
+          ]
+        },
+        {
+          "sentence": "The lower quartile is at the _____ percentile and the upper quartile is at the _____ percentile.",
+          "dropdowns": [
+            {
+              "options": ["25th", "50th", "75th"],
+              "answer": "25th"
+            },
+            {
+              "options": ["25th", "50th", "75th"],
+              "answer": "75th"
+            }
+          ]
+        },
+        {
+          "sentence": "The interquartile range is found by subtracting the _____ quartile from the _____ quartile.",
+          "dropdowns": [
+            {
+              "options": ["upper", "lower"],
+              "answer": "lower"
+            },
+            {
+              "options": ["upper", "lower"],
+              "answer": "upper"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Summary Cloze: Key Ideas",
+      "content": "Complete the summary by selecting the correct words from the dropdowns.",
+      "questions": [
+        {
+          "sentence": "A cumulative frequency graph shows the _____ total frequencies up to each data value.",
+          "dropdowns": [
+            {
+              "options": ["running", "average", "difference"],
+              "answer": "running"
+            }
+          ]
+        },
+        {
+          "sentence": "You can use the cumulative frequency graph to estimate statistics such as the median, _____, and interquartile range.",
+          "dropdowns": [
+            {
+              "options": ["mode", "mean", "quartiles"],
+              "answer": "quartiles"
+            }
+          ]
+        },
+        {
+          "sentence": "By comparing cumulative frequency graphs, you can compare the _____ and spread of different data sets.",
+          "dropdowns": [
+            {
+              "options": ["shapes", "colors", "locations"],
+              "answer": "shapes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Practice Question: Interpreting a Cumulative Frequency Graph",
+      "content": "A cumulative frequency graph shows the following data: At value 10, cumulative frequency is 20; at 20, cumulative frequency is 50; at 30, cumulative frequency is 75; total data points are 100.",
+      "questions": [
+        {
+          "question": "How many data values are less than or equal to 20?",
+          "answer": "50",
+          "explanation": "The cumulative frequency at 20 is 50, so there are 50 data values ≤ 20."
+        },
+        {
+          "question": "Estimate the median value.",
+          "answer": "Between 20 and 30",
+          "explanation": "The median corresponds to the 50th percentile. Half of 100 is 50, which corresponds to 20 on the graph. So the median is around 20."
+        },
+        {
+          "question": "What is the interquartile range if the lower quartile corresponds to cumulative frequency 25 and upper quartile to 75?",
+          "answer": "Difference between data values at cum freq 75 and 25",
+          "explanation": "You estimate the data values at 25 and 75 cumulative frequency, then subtract lower quartile from upper quartile to find the interquartile range."
+        }
+      ]
+    }
+  ]
+};
