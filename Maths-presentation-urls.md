@@ -1,1 +1,1 @@
-- [1.1 - Calculations with bounds (Part 3)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.1---calculations-with-bounds-(part-3)/dist/public/index.html)
+- [1.1 - Calculations with bounds (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.1---calculations-with-bounds-(part-2)/dist/public/index.html)
