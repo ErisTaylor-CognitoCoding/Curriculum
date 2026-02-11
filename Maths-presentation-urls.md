@@ -8,3 +8,4 @@
 - - [1.1 - Calculations with bounds (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.1---calculations-with-bounds-(part-2)/dist/public/index.html)
 - - [1.1 - Calculations with bounds (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.1---calculations-with-bounds-(part-1)/dist/public/index.html)
 - - [3.1 - Compound measures (pressure, density, speed) (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/3.1---compound-measures-(pressure,-density,-speed)-(part-2)/dist/public/index.html)
+- - [3.1 - Compound measures (pressure, density, speed) (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/3.1---compound-measures-(pressure,-density,-speed)-(part-1)/dist/public/index.html)
