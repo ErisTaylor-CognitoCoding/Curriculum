@@ -12,3 +12,4 @@
 - - [2.1 - Expanding products of multiple linear expressions (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.1---expanding-products-of-multiple-linear-expressions-(part-1)/dist/public/index.html)
 - - [4.3 - Sine and cosine rules](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.3---sine-and-cosine-rules/dist/public/index.html)
 - - [4.2 - Trigonometry in right-angled triangles](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.2---trigonometry-in-right-angled-triangles/dist/public/index.html)
+- - [4.1 - Pythagoras' theorem in 3D](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.1---pythagoras'-theorem-in-3d/dist/public/index.html)
