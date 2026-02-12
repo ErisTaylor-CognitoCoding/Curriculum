@@ -20,3 +20,4 @@
 - - [1.2 - Standard form calculations (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.2---standard-form-calculations-(part-1)/dist/public/index.html)
 - - [3.2 - Growth and decay (exponential, compound interest) (Part 3)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/3.2---growth-and-decay-(exponential,-compound-interest)-(part-3)/dist/public/index.html)
 - - [3.2 - Growth and decay (exponential, compound interest) (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/3.2---growth-and-decay-(exponential,-compound-interest)-(part-2)/dist/public/index.html)
+- - [3.2 - Growth and decay (exponential, compound interest) (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/3.2---growth-and-decay-(exponential,-compound-interest)-(part-1)/dist/public/index.html)
