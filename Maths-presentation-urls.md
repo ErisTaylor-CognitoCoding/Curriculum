@@ -16,3 +16,4 @@
 - - [2.4 - Simultaneous equations (linear and quadratic) (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.4---simultaneous-equations-(linear-and-quadratic)-(part-1)/dist/public/index.html)
 - - [2.3 - Solving quadratic equations (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.3---solving-quadratic-equations-(part-1)/dist/public/index.html)
 - - [1.2 - Standard form calculations (Part 3)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.2---standard-form-calculations-(part-3)/dist/public/index.html)
+- - [1.2 - Standard form calculations (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.2---standard-form-calculations-(part-2)/dist/public/index.html)
