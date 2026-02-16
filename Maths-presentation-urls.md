@@ -59,3 +59,4 @@
 - - [1.4 - Reciprocals and exact fractions (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.4---reciprocals-and-exact-fractions-(part-2)/dist/public/index.html)
 - - [1.4 - Reciprocals and exact fractions (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.4---reciprocals-and-exact-fractions-(part-1)/dist/public/index.html)
 - - [3.4 - Repeated percentage change (Part 3)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/3.4---repeated-percentage-change-(part-3)/dist/public/index.html)
+- - [3.4 - Repeated percentage change (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/3.4---repeated-percentage-change-(part-2)/dist/public/index.html)
