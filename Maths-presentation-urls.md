@@ -27,3 +27,4 @@
 - - [6.2 - Estimating median, quartiles, and IQR (Part 3)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.2---estimating-median,-quartiles,-and-iqr-(part-3)/dist/public/index.html)
 - - [6.2 - Estimating median, quartiles, and IQR (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.2---estimating-median,-quartiles,-and-iqr-(part-2)/dist/public/index.html)
 - - [6.2 - Estimating median, quartiles, and IQR (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.2---estimating-median,-quartiles,-and-iqr-(part-1)/dist/public/index.html)
+- - [4.6 - Graphs of sin, cos, tan](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.6---graphs-of-sin,-cos,-tan/dist/public/index.html)
