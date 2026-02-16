@@ -52,3 +52,4 @@
 - - [4.12 - Surface area and volume (spheres, cones, pyramids, frustums)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.12---surface-area-and-volume-(spheres,-cones,-pyramids,-frustums)/dist/public/index.html)
 - - [4.11 - Plans and elevations](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.11---plans-and-elevations/dist/public/index.html)
 - - [4.10 - Transformations (including column vectors)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.10---transformations-(including-column-vectors)/dist/public/index.html)
+- - [6.4 - Scatter graphs and correlation (Part 3)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.4---scatter-graphs-and-correlation-(part-3)/dist/public/index.html)
