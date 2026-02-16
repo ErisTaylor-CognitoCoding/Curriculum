@@ -84,3 +84,4 @@
 - - [2.12 - Direct and inverse proportion (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.12---direct-and-inverse-proportion-(part-1)/dist/public/index.html)
 - - [2.11 - Gradient of curves and areas under graphs (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.11---gradient-of-curves-and-areas-under-graphs-(part-1)/dist/public/index.html)
 - - [1.7 - Estimation and approximation (Part 3)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.7---estimation-and-approximation-(part-3)/dist/public/index.html)
+- - [1.7 - Estimation and approximation (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.7---estimation-and-approximation-(part-2)/dist/public/index.html)
