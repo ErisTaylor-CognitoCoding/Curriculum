@@ -73,3 +73,4 @@
 - - [2.9 - Equation of a circle (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.9---equation-of-a-circle-(part-2)/dist/public/index.html)
 - - [2.10 - Reciprocal and exponential graphs (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.10---reciprocal-and-exponential-graphs-(part-1)/dist/public/index.html)
 - - [2.9 - Equation of a circle (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.9---equation-of-a-circle-(part-1)/dist/public/index.html)
+- - [1.5 - Product of primes for HCF/LCM (Part 3)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.5---product-of-primes-for-hcf-lcm-(part-3)/dist/public/index.html)
