@@ -79,3 +79,4 @@
 - - [6.6 - Comparing distributions (box plots, histograms) (Part 3)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.6---comparing-distributions-(box-plots,-histograms)-(part-3)/dist/public/index.html)
 - - [6.6 - Comparing distributions (box plots, histograms) (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.6---comparing-distributions-(box-plots,-histograms)-(part-2)/dist/public/index.html)
 - - [6.6 - Comparing distributions (box plots, histograms) (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.6---comparing-distributions-(box-plots,-histograms)-(part-1)/dist/public/index.html)
+- - [1.6 - FDP conversions and percentages (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.6---fdp-conversions-and-percentages-(part-1)/dist/public/index.html)
