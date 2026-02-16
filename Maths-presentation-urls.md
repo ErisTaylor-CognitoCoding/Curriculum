@@ -70,3 +70,4 @@
 - - [4.13 - Similarity and congruence (including proofs) (Part 3)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.13---similarity-and-congruence-(including-proofs)-(part-3)/dist/public/index.html)
 - - [4.13 - Similarity and congruence (including proofs) (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.13---similarity-and-congruence-(including-proofs)-(part-2)/dist/public/index.html)
 - - [4.13 - Similarity and congruence (including proofs) (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.13---similarity-and-congruence-(including-proofs)-(part-1)/dist/public/index.html)
+- - [2.9 - Equation of a circle (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.9---equation-of-a-circle-(part-2)/dist/public/index.html)
