@@ -40,3 +40,4 @@
 - - [2.5 - Linear and quadratic inequalities (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.5---linear-and-quadratic-inequalities-(part-2)/dist/public/index.html)
 - - [2.6 - Algebraic fractions (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.6---algebraic-fractions-(part-1)/dist/public/index.html)
 - - [2.5 - Linear and quadratic inequalities (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.5---linear-and-quadratic-inequalities-(part-1)/dist/public/index.html)
+- - [3.3 - Direct and inverse proportion (graphical and algebraic) (Part 3)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/3.3---direct-and-inverse-proportion-(graphical-and-algebraic)-(part-3)/dist/public/index.html)
