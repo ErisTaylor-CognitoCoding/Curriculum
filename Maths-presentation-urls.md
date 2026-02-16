@@ -65,3 +65,4 @@
 - - [3.5 - Scale factors for area and volume (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/3.5---scale-factors-for-area-and-volume-(part-2)/dist/public/index.html)
 - - [3.5 - Scale factors for area and volume (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/3.5---scale-factors-for-area-and-volume-(part-1)/dist/public/index.html)
 - - [6.5 - Time series graphs (Part 3)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.5---time-series-graphs-(part-3)/dist/public/index.html)
+- - [6.5 - Time series graphs (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.5---time-series-graphs-(part-2)/dist/public/index.html)
