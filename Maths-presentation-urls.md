@@ -25,3 +25,4 @@
 - - [5.2 - Venn diagrams (probability notation) (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/5.2---venn-diagrams-(probability-notation)-(part-2)/dist/public/index.html)
 - - [5.2 - Venn diagrams (probability notation) (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/5.2---venn-diagrams-(probability-notation)-(part-1)/dist/public/index.html)
 - - [6.2 - Estimating median, quartiles, and IQR (Part 3)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.2---estimating-median,-quartiles,-and-iqr-(part-3)/dist/public/index.html)
+- - [6.2 - Estimating median, quartiles, and IQR (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.2---estimating-median,-quartiles,-and-iqr-(part-2)/dist/public/index.html)
