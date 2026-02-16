@@ -29,3 +29,4 @@
 - - [6.2 - Estimating median, quartiles, and IQR (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.2---estimating-median,-quartiles,-and-iqr-(part-1)/dist/public/index.html)
 - - [4.6 - Graphs of sin, cos, tan](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.6---graphs-of-sin,-cos,-tan/dist/public/index.html)
 - - [4.5 - Exact trig values](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.5---exact-trig-values/dist/public/index.html)
+- - [4.4 - Area of triangle = ½ab sin C](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.4---area-of-triangle-=-½ab-sin-c/dist/public/index.html)
