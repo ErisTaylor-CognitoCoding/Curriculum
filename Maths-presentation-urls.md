@@ -47,3 +47,4 @@
 - - [4.8 - Arcs, sectors, and segments](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.8---arcs,-sectors,-and-segments/dist/public/index.html)
 - - [4.7 - Circle theorems and proofs](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.7---circle-theorems-and-proofs/dist/public/index.html)
 - - [5.4 - Set notation for probability (Part 3)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/5.4---set-notation-for-probability-(part-3)/dist/public/index.html)
+- - [5.4 - Set notation for probability (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/5.4---set-notation-for-probability-(part-2)/dist/public/index.html)
