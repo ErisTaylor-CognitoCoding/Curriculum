@@ -43,3 +43,4 @@
 - - [3.3 - Direct and inverse proportion (graphical and algebraic) (Part 3)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/3.3---direct-and-inverse-proportion-(graphical-and-algebraic)-(part-3)/dist/public/index.html)
 - - [3.3 - Direct and inverse proportion (graphical and algebraic) (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/3.3---direct-and-inverse-proportion-(graphical-and-algebraic)-(part-2)/dist/public/index.html)
 - - [3.3 - Direct and inverse proportion (graphical and algebraic) (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/3.3---direct-and-inverse-proportion-(graphical-and-algebraic)-(part-1)/dist/public/index.html)
+- - [4.9 - Vectors (2D, magnitude, operations)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.9---vectors-(2d,-magnitude,-operations)/dist/public/index.html)
