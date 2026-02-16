@@ -55,3 +55,4 @@
 - - [6.4 - Scatter graphs and correlation (Part 3)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.4---scatter-graphs-and-correlation-(part-3)/dist/public/index.html)
 - - [6.4 - Scatter graphs and correlation (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.4---scatter-graphs-and-correlation-(part-2)/dist/public/index.html)
 - - [6.4 - Scatter graphs and correlation (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.4---scatter-graphs-and-correlation-(part-1)/dist/public/index.html)
+- - [1.4 - Reciprocals and exact fractions (Part 3)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.4---reciprocals-and-exact-fractions-(part-3)/dist/public/index.html)
