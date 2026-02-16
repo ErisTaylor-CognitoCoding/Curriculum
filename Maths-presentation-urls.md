@@ -37,3 +37,4 @@
 - - [1.3 - Surds (simplifying and rationalising) (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.3---surds-(simplifying-and-rationalising)-(part-2)/dist/public/index.html)
 - - [1.3 - Surds (simplifying and rationalising) (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.3---surds-(simplifying-and-rationalising)-(part-1)/dist/public/index.html)
 - - [6.3 - Histograms (frequency density, unequal class widths) (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.3---histograms-(frequency-density,-unequal-class-widths)-(part-1)/dist/public/index.html)
+- - [2.5 - Linear and quadratic inequalities (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.5---linear-and-quadratic-inequalities-(part-2)/dist/public/index.html)
