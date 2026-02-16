@@ -32,3 +32,4 @@
 - - [4.4 - Area of triangle = ½ab sin C](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.4---area-of-triangle-=-½ab-sin-c/dist/public/index.html)
 - - [5.3 - Conditional probability P(A|B) (Part 3)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/5.3---conditional-probability-p(a|b)-(part-3)/dist/public/index.html)
 - - [5.3 - Conditional probability P(A|B) (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/5.3---conditional-probability-p(a|b)-(part-2)/dist/public/index.html)
+- - [5.3 - Conditional probability P(A|B) (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/5.3---conditional-probability-p(a|b)-(part-1)/dist/public/index.html)
