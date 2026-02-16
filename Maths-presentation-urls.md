@@ -82,3 +82,4 @@
 - - [1.6 - FDP conversions and percentages (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.6---fdp-conversions-and-percentages-(part-1)/dist/public/index.html)
 - - [2.11 - Gradient of curves and areas under graphs (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.11---gradient-of-curves-and-areas-under-graphs-(part-2)/dist/public/index.html)
 - - [2.12 - Direct and inverse proportion (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.12---direct-and-inverse-proportion-(part-1)/dist/public/index.html)
+- - [2.11 - Gradient of curves and areas under graphs (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.11---gradient-of-curves-and-areas-under-graphs-(part-1)/dist/public/index.html)
