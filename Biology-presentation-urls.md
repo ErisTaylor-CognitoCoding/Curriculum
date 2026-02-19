@@ -90,3 +90,4 @@
 - - [5.2.1.4 - Covalent bonding](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.1.4---covalent-bonding/dist/public/index.html)
 - - [5.2.2.5 - Polymers](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.2.5---polymers/dist/public/index.html)
 - - [5.2.2.6 - Giant covalent structures](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.2.6---giant-covalent-structures/dist/public/index.html)
+- - [5.2.3.3 - Graphene and fullerenes](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.3.3---graphene-and-fullerenes/dist/public/index.html)
