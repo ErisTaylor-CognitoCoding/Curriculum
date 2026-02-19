@@ -162,3 +162,4 @@
 - - [6.7.2.1 - Electromagnetism](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.7.2.1---electromagnetism/dist/public/index.html)
 - - [6.7.2.2 - Fleming's left-hand rule (HT only)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.7.2.2---fleming's-left-hand-rule-(ht-only)/dist/public/index.html)
 - - [6.3.3.1 - Particle motion in gases](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.3.3.1---particle-motion-in-gases/dist/public/index.html)
+- - [6.4.1.1 - The structure of an atom](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.4.1.1---the-structure-of-an-atom/dist/public/index.html)
