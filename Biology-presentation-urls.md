@@ -78,3 +78,4 @@
 - - [5.1.1.1 - Atoms, elements and compounds](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.1.1---atoms,-elements-and-compounds/dist/public/index.html)
 - - [5.2.3.1 - Diamond](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.3.1---diamond/dist/public/index.html)
 - - [5.1.2.2 - Development of the periodic table](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.2.2---development-of-the-periodic-table/dist/public/index.html)
+- - [5.2.1.3 - Ionic compounds](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.1.3---ionic-compounds/dist/public/index.html)
