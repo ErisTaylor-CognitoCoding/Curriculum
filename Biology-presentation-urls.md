@@ -98,3 +98,4 @@
 - - [5.1.1.3 - The development of the model of the atom](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.1.3---the-development-of-the-model-of-the-atom/dist/public/index.html)
 - - [5.4.1.3 - Extraction of metals and reduction](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.1.3---extraction-of-metals-and-reduction/dist/public/index.html)
 - - [5.4.3.1 - The process of electrolysis](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.3.1---the-process-of-electrolysis/dist/public/index.html)
+- - [5.3.1.1 - Conservation of mass and balanced chemical equations](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.3.1.1---conservation-of-mass-and-balanced-chemical-equations/dist/public/index.html)
