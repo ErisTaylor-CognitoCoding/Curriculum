@@ -105,3 +105,4 @@
 - - [5.1.1.4 - Relative electrical charges of subatomic particles](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.1.4---relative-electrical-charges-of-subatomic-particles/dist/public/index.html)
 - - [5.3.2.2 - Amounts of substances in equations (HT only)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.3.2.2---amounts-of-substances-in-equations-(ht-only)/dist/public/index.html)
 - - [5.4.1.4 - Oxidation and reduction in terms of electrons (HT only)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.1.4---oxidation-and-reduction-in-terms-of-electrons-(ht-only)/dist/public/index.html)
+- - [5.4.3.2 - Electrolysis of molten ionic compounds](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.3.2---electrolysis-of-molten-ionic-compounds/dist/public/index.html)
