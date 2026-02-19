@@ -134,3 +134,4 @@
 - - [6.5.1.2 - Contact and non-contact forces](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.1.2---contact-and-non-contact-forces/dist/public/index.html)
 - - [6.2.4.3 - The National Grid](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.2.4.3---the-national-grid/dist/public/index.html)
 - - [6.3.1.1 - Density of materials](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.3.1.1---density-of-materials/dist/public/index.html)
+- - [6.1.1.1 - Energy stores and systems](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.1.1.1---energy-stores-and-systems/dist/public/index.html)
