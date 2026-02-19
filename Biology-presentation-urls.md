@@ -52,3 +52,4 @@
 - - [4.3.1.4 - Fungal diseases](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.3.1.4---fungal-diseases/dist/public/index.html)
 - - [4.3.1.5 - Protist diseases](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.3.1.5---protist-diseases/dist/public/index.html)
 - - [4.7.1.2 - Abiotic factors](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.7.1.2---abiotic-factors/dist/public/index.html)
+- - [4.7.1.3 - Biotic factors](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.7.1.3---biotic-factors/dist/public/index.html)
