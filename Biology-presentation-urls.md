@@ -62,3 +62,4 @@
 - - [4.5.3.3 - Hormones in human reproduction](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.5.3.3---hormones-in-human-reproduction/dist/public/index.html)
 - - [4.5.3.4 - Contraception](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.5.3.4---contraception/dist/public/index.html)
 - - [4.3.1.6 - Human defence systems](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.3.1.6---human-defence-systems/dist/public/index.html)
+- - [4.3.1.7 - Vaccination](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.3.1.7---vaccination/dist/public/index.html)
