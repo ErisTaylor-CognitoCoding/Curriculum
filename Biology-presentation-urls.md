@@ -110,3 +110,4 @@
 - - [5.1.1.5 - Size and mass of atoms](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.1.5---size-and-mass-of-atoms/dist/public/index.html)
 - - [5.2.2.8 - Metals as conductors](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.2.8---metals-as-conductors/dist/public/index.html)
 - - [5.1.2.6 - Group 7](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.2.6---group-7/dist/public/index.html)
+- - [5.2.2.2 - State symbols](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.2.2---state-symbols/dist/public/index.html)
