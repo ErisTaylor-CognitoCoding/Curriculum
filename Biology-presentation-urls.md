@@ -44,3 +44,4 @@
 - - [4.3.1.2 - Viral diseases](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.3.1.2---viral-diseases/dist/public/index.html)
 - - [4.3.1.3 - Bacterial diseases](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.3.1.3---bacterial-diseases/dist/public/index.html)
 - - [4.6.1.5 - Inherited disorders](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.6.1.5---inherited-disorders/dist/public/index.html)
+- - [4.6.1.6 - Sex determination](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.6.1.6---sex-determination/dist/public/index.html)
