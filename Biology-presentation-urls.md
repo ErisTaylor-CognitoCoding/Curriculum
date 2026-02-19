@@ -108,3 +108,4 @@
 - - [5.4.3.2 - Electrolysis of molten ionic compounds](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.3.2---electrolysis-of-molten-ionic-compounds/dist/public/index.html)
 - - [5.6.1.1 - Calculating rates of reactions](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.6.1.1---calculating-rates-of-reactions/dist/public/index.html)
 - - [5.1.1.5 - Size and mass of atoms](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.1.5---size-and-mass-of-atoms/dist/public/index.html)
+- - [5.2.2.8 - Metals as conductors](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.2.8---metals-as-conductors/dist/public/index.html)
