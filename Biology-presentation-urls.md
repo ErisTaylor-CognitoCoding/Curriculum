@@ -118,3 +118,4 @@
 - - [5.6.1.2 - Factors which affect the rates of chemical reactions](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.6.1.2---factors-which-affect-the-rates-of-chemical-reactions/dist/public/index.html)
 - - [5.3.2.4 - Limiting reactants (HT only)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.3.2.4---limiting-reactants-(ht-only)/dist/public/index.html)
 - - [5.1.1.6 - Relative atomic mass](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.1.6---relative-atomic-mass/dist/public/index.html)
+- - [5.4.2.2 - Neutralisation of acids and salt production](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.2.2---neutralisation-of-acids-and-salt-production/dist/public/index.html)
