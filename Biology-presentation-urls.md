@@ -133,3 +133,4 @@
 - - [6.5.1.1 - Scalar and vector quantities](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.1.1---scalar-and-vector-quantities/dist/public/index.html)
 - - [6.5.1.2 - Contact and non-contact forces](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.1.2---contact-and-non-contact-forces/dist/public/index.html)
 - - [6.2.4.3 - The National Grid](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.2.4.3---the-national-grid/dist/public/index.html)
+- - [6.3.1.1 - Density of materials](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.3.1.1---density-of-materials/dist/public/index.html)
