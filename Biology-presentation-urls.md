@@ -130,3 +130,4 @@
 - - [5.4.2.3 - Soluble salts](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.2.3---soluble-salts/dist/public/index.html)
 - - [5.3.2.5 - Concentration of solutions](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.3.2.5---concentration-of-solutions/dist/public/index.html)
 - - [5.1.2.1 - The periodic table](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.2.1---the-periodic-table/dist/public/index.html)
+- - [6.5.1.1 - Scalar and vector quantities](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.1.1---scalar-and-vector-quantities/dist/public/index.html)
