@@ -155,3 +155,4 @@
 - - [6.5.3 - Forces and elasticity](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.3---forces-and-elasticity/dist/public/index.html)
 - - [6.7.1.1 - Poles of a magnet](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.7.1.1---poles-of-a-magnet/dist/public/index.html)
 - - [6.7.1.2 - Magnetic fields](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.7.1.2---magnetic-fields/dist/public/index.html)
+- - [6.1.2.1 - Energy transfers in a system](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.1.2.1---energy-transfers-in-a-system/dist/public/index.html)
