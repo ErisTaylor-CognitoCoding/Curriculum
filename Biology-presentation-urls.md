@@ -15,3 +15,4 @@
 - - [4.2.2.7 - Cancer](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.2.2.7---cancer/dist/public/index.html)
 - - [4.2.3.1 - Plant tissues](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.2.3.1---plant-tissues/dist/public/index.html)
 - - [4.1.1.3 - Cell specialisation](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.1.1.3---cell-specialisation/dist/public/index.html)
+- - [4.1.1.4 - Cell differentiation](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.1.1.4---cell-differentiation/dist/public/index.html)
