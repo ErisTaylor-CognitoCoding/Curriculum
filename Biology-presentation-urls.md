@@ -137,3 +137,4 @@
 - - [6.1.1.1 - Energy stores and systems](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.1.1.1---energy-stores-and-systems/dist/public/index.html)
 - - [6.5.4.2.2 - Newton's Second Law](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.2.2---newton's-second-law/dist/public/index.html)
 - - [6.5.4.2.3 - Newton's Third Law](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.2.3---newton's-third-law/dist/public/index.html)
+- - [6.6.2.1 - Types of electromagnetic waves](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.6.2.1---types-of-electromagnetic-waves/dist/public/index.html)
