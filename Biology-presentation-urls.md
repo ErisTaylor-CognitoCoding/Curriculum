@@ -169,3 +169,4 @@
 - - [6.2.1.1 - Standard circuit diagram symbols](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.2.1.1---standard-circuit-diagram-symbols/dist/public/index.html)
 - - [6.5.4.1.1 - Distance and displacement](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.1.1---distance-and-displacement/dist/public/index.html)
 - - [6.5.4.1.2 - Speed](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.1.2---speed/dist/public/index.html)
+- - [6.6.1.1 - Transverse and longitudinal waves](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.6.1.1---transverse-and-longitudinal-waves/dist/public/index.html)
