@@ -151,3 +151,4 @@
 - - [6.5.4.3.2 - Reaction time](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.3.2---reaction-time/dist/public/index.html)
 - - [6.5.4.3.3 - Factors affecting braking distance 1](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.3.3---factors-affecting-braking-distance-1/dist/public/index.html)
 - - [6.5.4.3.4 - Factors affecting braking distance 2](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.3.4---factors-affecting-braking-distance-2/dist/public/index.html)
+- - [6.5.2 - Work done and energy transfer](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.2---work-done-and-energy-transfer/dist/public/index.html)
