@@ -124,3 +124,4 @@
 - - [5.2.1.1 - Chemical bonds](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.1.1---chemical-bonds/dist/public/index.html)
 - - [5.4.3.4 - Electrolysis of aqueous solutions](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.3.4---electrolysis-of-aqueous-solutions/dist/public/index.html)
 - - [5.1.1.7 - Electronic structure](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.1.7---electronic-structure/dist/public/index.html)
+- - [5.4.3.5 - Representation of reactions at electrodes as half equations (HT only)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.3.5---representation-of-reactions-at-electrodes-as-half-equations-(ht-only)/dist/public/index.html)
