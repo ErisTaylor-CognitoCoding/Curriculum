@@ -81,3 +81,4 @@
 - - [5.2.1.3 - Ionic compounds](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.1.3---ionic-compounds/dist/public/index.html)
 - - [5.2.2.4 - Properties of small molecules](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.2.4---properties-of-small-molecules/dist/public/index.html)
 - - [5.1.1.2 - Mixtures](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.1.2---mixtures/dist/public/index.html)
+- - [5.2.3.2 - Graphite](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.3.2---graphite/dist/public/index.html)
