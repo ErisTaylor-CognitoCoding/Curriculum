@@ -122,3 +122,4 @@
 - - [5.6.1.3 - Collision theory and activation energy](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.6.1.3---collision-theory-and-activation-energy/dist/public/index.html)
 - - [5.2.2.3 - Properties of ionic compounds](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.2.3---properties-of-ionic-compounds/dist/public/index.html)
 - - [5.2.1.1 - Chemical bonds](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.1.1---chemical-bonds/dist/public/index.html)
+- - [5.4.3.4 - Electrolysis of aqueous solutions](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.3.4---electrolysis-of-aqueous-solutions/dist/public/index.html)
