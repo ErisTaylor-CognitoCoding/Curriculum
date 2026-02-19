@@ -50,3 +50,4 @@
 - - [4.1.3.1 - Diffusion](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.1.3.1---diffusion/dist/public/index.html)
 - - [4.1.3.2 - Osmosis](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.1.3.2---osmosis/dist/public/index.html)
 - - [4.3.1.4 - Fungal diseases](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.3.1.4---fungal-diseases/dist/public/index.html)
+- - [4.3.1.5 - Protist diseases](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.3.1.5---protist-diseases/dist/public/index.html)
