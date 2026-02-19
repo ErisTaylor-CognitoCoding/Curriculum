@@ -74,3 +74,4 @@
 - - [5.3.1.3 - Mass changes when a reactant or product is a gas](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.3.1.3---mass-changes-when-a-reactant-or-product-is-a-gas/dist/public/index.html)
 - - [5.4.1.1 - Metal oxides](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.1.1---metal-oxides/dist/public/index.html)
 - - [5.5.1.1 - Energy transfer during exothermic and endothermic reactions](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.5.1.1---energy-transfer-during-exothermic-and-endothermic-reactions/dist/public/index.html)
+- - [5.4.2.4 - The pH scale and neutralisation](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.2.4---the-ph-scale-and-neutralisation/dist/public/index.html)
