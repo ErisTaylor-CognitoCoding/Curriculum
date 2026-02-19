@@ -187,3 +187,4 @@
 - - [6.5.4.2.1 - Newton's First Law](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.2.1---newton's-first-law/dist/public/index.html)
 - - [6.2.3.1 - Direct and alternating potential difference](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.2.3.1---direct-and-alternating-potential-difference/dist/public/index.html)
 - - [6.2.3.2 - Mains electricity](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.2.3.2---mains-electricity/dist/public/index.html)
+- - [6.4.2.3 - Half-lives and the random nature of radioactive decay](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.4.2.3---half-lives-and-the-random-nature-of-radioactive-decay/dist/public/index.html)
