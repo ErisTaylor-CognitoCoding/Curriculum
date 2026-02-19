@@ -18,3 +18,4 @@
 - - [4.1.1.4 - Cell differentiation](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.1.1.4---cell-differentiation/dist/public/index.html)
 - - [4.4.1.3 - Uses of glucose from photosynthesis](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.4.1.3---uses-of-glucose-from-photosynthesis/dist/public/index.html)
 - - [4.4.2.1 - Aerobic and anaerobic respiration](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.4.2.1---aerobic-and-anaerobic-respiration/dist/public/index.html)
+- - [4.7.2.2 - How materials are cycled](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.7.2.2---how-materials-are-cycled/dist/public/index.html)
