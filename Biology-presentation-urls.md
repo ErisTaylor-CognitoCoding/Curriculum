@@ -117,3 +117,4 @@
 - - [5.3.2.3 - Using moles to balance equations (HT only)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.3.2.3---using-moles-to-balance-equations-(ht-only)/dist/public/index.html)
 - - [5.6.1.2 - Factors which affect the rates of chemical reactions](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.6.1.2---factors-which-affect-the-rates-of-chemical-reactions/dist/public/index.html)
 - - [5.3.2.4 - Limiting reactants (HT only)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.3.2.4---limiting-reactants-(ht-only)/dist/public/index.html)
+- - [5.1.1.6 - Relative atomic mass](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.1.6---relative-atomic-mass/dist/public/index.html)
