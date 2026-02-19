@@ -106,3 +106,4 @@
 - - [5.3.2.2 - Amounts of substances in equations (HT only)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.3.2.2---amounts-of-substances-in-equations-(ht-only)/dist/public/index.html)
 - - [5.4.1.4 - Oxidation and reduction in terms of electrons (HT only)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.1.4---oxidation-and-reduction-in-terms-of-electrons-(ht-only)/dist/public/index.html)
 - - [5.4.3.2 - Electrolysis of molten ionic compounds](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.3.2---electrolysis-of-molten-ionic-compounds/dist/public/index.html)
+- - [5.6.1.1 - Calculating rates of reactions](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.6.1.1---calculating-rates-of-reactions/dist/public/index.html)
