@@ -182,3 +182,4 @@
 - - [6.4.2.1 - Radioactive decay and nuclear radiation](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.4.2.1---radioactive-decay-and-nuclear-radiation/dist/public/index.html)
 - - [6.4.2.2 - Nuclear equations](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.4.2.2---nuclear-equations/dist/public/index.html)
 - - [6.2.1.4 - Resistors](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.2.1.4---resistors/dist/public/index.html)
+- - [6.2.2 - Series and parallel circuits](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.2.2---series-and-parallel-circuits/dist/public/index.html)
