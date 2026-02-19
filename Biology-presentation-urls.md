@@ -26,3 +26,4 @@
 - - [4.6.3.2 - Fossils](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.6.3.2---fossils/dist/public/index.html)
 - - [4.7.3.2 - Waste management](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.7.3.2---waste-management/dist/public/index.html)
 - - [4.7.3.3 - Land use](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.7.3.3---land-use/dist/public/index.html)
+- - [4.6.1.3 - DNA and the genome](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.6.1.3---dna-and-the-genome/dist/public/index.html)
