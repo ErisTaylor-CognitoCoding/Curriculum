@@ -13,3 +13,4 @@
 - - [4.1.1.1 - Eukaryotes and prokaryotes](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.1.1.1---eukaryotes-and-prokaryotes/dist/public/index.html)
 - - [4.1.1.2 - Animal and plant cells](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.1.1.2---animal-and-plant-cells/dist/public/index.html)
 - - [4.2.2.7 - Cancer](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.2.2.7---cancer/dist/public/index.html)
+- - [4.2.3.1 - Plant tissues](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.2.3.1---plant-tissues/dist/public/index.html)
