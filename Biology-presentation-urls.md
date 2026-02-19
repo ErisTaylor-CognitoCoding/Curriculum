@@ -54,3 +54,4 @@
 - - [4.7.1.2 - Abiotic factors](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.7.1.2---abiotic-factors/dist/public/index.html)
 - - [4.7.1.3 - Biotic factors](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.7.1.3---biotic-factors/dist/public/index.html)
 - - [4.7.3.6 - Maintaining biodiversity](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.7.3.6---maintaining-biodiversity/dist/public/index.html)
+- - [4.8 - Key ideas](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.8---key-ideas/dist/public/index.html)
