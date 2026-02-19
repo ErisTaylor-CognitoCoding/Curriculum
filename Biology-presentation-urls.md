@@ -93,3 +93,4 @@
 - - [5.2.3.3 - Graphene and fullerenes](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.3.3---graphene-and-fullerenes/dist/public/index.html)
 - - [5.5.1.3 - The energy change of reactions (HT only)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.5.1.3---the-energy-change-of-reactions-(ht-only)/dist/public/index.html)
 - - [5.3.2.1 - Moles (HT only)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.3.2.1---moles-(ht-only)/dist/public/index.html)
+- - [5.1.2.4 - Group 0](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.2.4---group-0/dist/public/index.html)
