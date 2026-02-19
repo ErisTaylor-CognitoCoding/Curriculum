@@ -84,3 +84,4 @@
 - - [5.2.3.2 - Graphite](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.3.2---graphite/dist/public/index.html)
 - - [5.4.1.2 - The reactivity series](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.1.2---the-reactivity-series/dist/public/index.html)
 - - [5.5.1.2 - Reaction profiles](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.5.1.2---reaction-profiles/dist/public/index.html)
+- - [5.4.2.5 - Strong and weak acids (HT only)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.2.5---strong-and-weak-acids-(ht-only)/dist/public/index.html)
