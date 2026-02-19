@@ -149,3 +149,4 @@
 - - [6.6.2.4 - Uses and applications of electromagnetic waves](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.6.2.4---uses-and-applications-of-electromagnetic-waves/dist/public/index.html)
 - - [6.5.4.3.1 - Stopping distance](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.3.1---stopping-distance/dist/public/index.html)
 - - [6.5.4.3.2 - Reaction time](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.3.2---reaction-time/dist/public/index.html)
+- - [6.5.4.3.3 - Factors affecting braking distance 1](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.3.3---factors-affecting-braking-distance-1/dist/public/index.html)
