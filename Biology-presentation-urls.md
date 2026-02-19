@@ -146,3 +146,4 @@
 - - [6.1.1.3 - Energy changes in systems](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.1.1.3---energy-changes-in-systems/dist/public/index.html)
 - - [6.1.1.4 - Power](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.1.1.4---power/dist/public/index.html)
 - - [6.6.2.3 - Properties of electromagnetic waves 2](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.6.2.3---properties-of-electromagnetic-waves-2/dist/public/index.html)
+- - [6.6.2.4 - Uses and applications of electromagnetic waves](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.6.2.4---uses-and-applications-of-electromagnetic-waves/dist/public/index.html)
