@@ -65,3 +65,4 @@
 - - [4.3.1.7 - Vaccination](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.3.1.7---vaccination/dist/public/index.html)
 - - [4.1.3.3 - Active transport](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.1.3.3---active-transport/dist/public/index.html)
 - - [4.2.1 - Principles of organisation](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.2.1---principles-of-organisation/dist/public/index.html)
+- - [4.3.1.8 - Antibiotics and painkillers](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.3.1.8---antibiotics-and-painkillers/dist/public/index.html)
