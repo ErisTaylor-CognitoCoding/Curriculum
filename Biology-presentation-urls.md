@@ -96,3 +96,4 @@
 - - [5.1.2.4 - Group 0](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.2.4---group-0/dist/public/index.html)
 - - [5.2.1.5 - Metallic bonding](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.1.5---metallic-bonding/dist/public/index.html)
 - - [5.1.1.3 - The development of the model of the atom](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.1.3---the-development-of-the-model-of-the-atom/dist/public/index.html)
+- - [5.4.1.3 - Extraction of metals and reduction](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.1.3---extraction-of-metals-and-reduction/dist/public/index.html)
