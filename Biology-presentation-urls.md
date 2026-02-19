@@ -140,3 +140,4 @@
 - - [6.6.2.1 - Types of electromagnetic waves](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.6.2.1---types-of-electromagnetic-waves/dist/public/index.html)
 - - [6.6.2.2 - Properties of electromagnetic waves 1](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.6.2.2---properties-of-electromagnetic-waves-1/dist/public/index.html)
 - - [6.5.1.3 - Gravity](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.1.3---gravity/dist/public/index.html)
+- - [6.5.1.4 - Resultant forces](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.1.4---resultant-forces/dist/public/index.html)
