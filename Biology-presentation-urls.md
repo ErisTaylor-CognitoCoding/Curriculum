@@ -30,3 +30,4 @@
 - - [4.6.1.4 - Genetic inheritance](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.6.1.4---genetic-inheritance/dist/public/index.html)
 - - [4.1.1.5 - Microscopy](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.1.1.5---microscopy/dist/public/index.html)
 - - [4.1.2.1 - Chromosomes](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.1.2.1---chromosomes/dist/public/index.html)
+- - [4.2.3.2 - Plant organ system](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.2.3.2---plant-organ-system/dist/public/index.html)
