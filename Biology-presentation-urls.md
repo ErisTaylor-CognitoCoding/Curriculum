@@ -34,3 +34,4 @@
 - - [4.3.1.1 - Communicable (infectious) diseases](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.3.1.1---communicable-(infectious)-diseases/dist/public/index.html)
 - - [4.6.3.3 - Extinction](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.6.3.3---extinction/dist/public/index.html)
 - - [4.6.3.4 - Resistant bacteria](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.6.3.4---resistant-bacteria/dist/public/index.html)
+- - [4.4.2.2 - Response to exercise](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.4.2.2---response-to-exercise/dist/public/index.html)
