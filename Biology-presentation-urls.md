@@ -183,3 +183,4 @@
 - - [6.4.2.2 - Nuclear equations](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.4.2.2---nuclear-equations/dist/public/index.html)
 - - [6.2.1.4 - Resistors](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.2.1.4---resistors/dist/public/index.html)
 - - [6.2.2 - Series and parallel circuits](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.2.2---series-and-parallel-circuits/dist/public/index.html)
+- - [6.5.4.1.5 - Acceleration](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.1.5---acceleration/dist/public/index.html)
