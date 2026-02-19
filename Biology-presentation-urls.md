@@ -82,3 +82,4 @@
 - - [5.2.2.4 - Properties of small molecules](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.2.4---properties-of-small-molecules/dist/public/index.html)
 - - [5.1.1.2 - Mixtures](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.1.2---mixtures/dist/public/index.html)
 - - [5.2.3.2 - Graphite](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.3.2---graphite/dist/public/index.html)
+- - [5.4.1.2 - The reactivity series](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.1.2---the-reactivity-series/dist/public/index.html)
