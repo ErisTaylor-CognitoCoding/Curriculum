@@ -138,3 +138,4 @@
 - - [6.5.4.2.2 - Newton's Second Law](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.2.2---newton's-second-law/dist/public/index.html)
 - - [6.5.4.2.3 - Newton's Third Law](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.2.3---newton's-third-law/dist/public/index.html)
 - - [6.6.2.1 - Types of electromagnetic waves](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.6.2.1---types-of-electromagnetic-waves/dist/public/index.html)
+- - [6.6.2.2 - Properties of electromagnetic waves 1](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.6.2.2---properties-of-electromagnetic-waves-1/dist/public/index.html)
