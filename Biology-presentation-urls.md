@@ -184,3 +184,4 @@
 - - [6.2.1.4 - Resistors](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.2.1.4---resistors/dist/public/index.html)
 - - [6.2.2 - Series and parallel circuits](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.2.2---series-and-parallel-circuits/dist/public/index.html)
 - - [6.5.4.1.5 - Acceleration](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.1.5---acceleration/dist/public/index.html)
+- - [6.5.4.2.1 - Newton's First Law](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.2.1---newton's-first-law/dist/public/index.html)
