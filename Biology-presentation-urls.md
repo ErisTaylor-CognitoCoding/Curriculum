@@ -119,3 +119,4 @@
 - - [5.3.2.4 - Limiting reactants (HT only)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.3.2.4---limiting-reactants-(ht-only)/dist/public/index.html)
 - - [5.1.1.6 - Relative atomic mass](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.1.6---relative-atomic-mass/dist/public/index.html)
 - - [5.4.2.2 - Neutralisation of acids and salt production](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.2.2---neutralisation-of-acids-and-salt-production/dist/public/index.html)
+- - [5.6.1.3 - Collision theory and activation energy](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.6.1.3---collision-theory-and-activation-energy/dist/public/index.html)
