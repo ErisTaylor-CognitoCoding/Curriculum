@@ -153,3 +153,4 @@
 - - [6.5.4.3.4 - Factors affecting braking distance 2](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.3.4---factors-affecting-braking-distance-2/dist/public/index.html)
 - - [6.5.2 - Work done and energy transfer](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.2---work-done-and-energy-transfer/dist/public/index.html)
 - - [6.5.3 - Forces and elasticity](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.3---forces-and-elasticity/dist/public/index.html)
+- - [6.7.1.1 - Poles of a magnet](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.7.1.1---poles-of-a-magnet/dist/public/index.html)
