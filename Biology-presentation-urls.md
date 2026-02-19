@@ -143,3 +143,4 @@
 - - [6.5.1.4 - Resultant forces](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.1.4---resultant-forces/dist/public/index.html)
 - - [6.3.1.2 - Changes of state](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.3.1.2---changes-of-state/dist/public/index.html)
 - - [6.3.2.1 - Internal energy](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.3.2.1---internal-energy/dist/public/index.html)
+- - [6.1.1.3 - Energy changes in systems](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.1.1.3---energy-changes-in-systems/dist/public/index.html)
