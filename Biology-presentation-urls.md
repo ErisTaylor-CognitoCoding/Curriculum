@@ -175,3 +175,4 @@
 - - [6.8 - Key ideas](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.8---key-ideas/dist/public/index.html)
 - - [6.5.4.1.3 - Velocity](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.1.3---velocity/dist/public/index.html)
 - - [6.5.4.1.4 - The distance–time relationship](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.1.4---the-distance–time-relationship/dist/public/index.html)
+- - [6.4.1.2 - Mass number, atomic number and isotopes](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.4.1.2---mass-number,-atomic-number-and-isotopes/dist/public/index.html)
