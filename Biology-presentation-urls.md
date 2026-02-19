@@ -87,3 +87,4 @@
 - - [5.4.2.5 - Strong and weak acids (HT only)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.2.5---strong-and-weak-acids-(ht-only)/dist/public/index.html)
 - - [5.3.1.4 - Chemical measurements](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.3.1.4---chemical-measurements/dist/public/index.html)
 - - [5.1.2.3 - Metals and non-metals](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.2.3---metals-and-non-metals/dist/public/index.html)
+- - [5.2.1.4 - Covalent bonding](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.1.4---covalent-bonding/dist/public/index.html)
