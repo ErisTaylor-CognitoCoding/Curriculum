@@ -37,3 +37,4 @@
 - - [4.4.2.2 - Response to exercise](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.4.2.2---response-to-exercise/dist/public/index.html)
 - - [4.4.2.3 - Metabolism](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.4.2.3---metabolism/dist/public/index.html)
 - - [4.5.1 - Homeostasis](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.5.1---homeostasis/dist/public/index.html)
+- - [4.5.2 - The human nervous system](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.5.2---the-human-nervous-system/dist/public/index.html)
