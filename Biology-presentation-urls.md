@@ -24,3 +24,4 @@
 - - [4.6.1.2 - Meiosis](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.6.1.2---meiosis/dist/public/index.html)
 - - [4.6.3.1 - Evidence for evolution](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.6.3.1---evidence-for-evolution/dist/public/index.html)
 - - [4.6.3.2 - Fossils](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.6.3.2---fossils/dist/public/index.html)
+- - [4.7.3.2 - Waste management](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.7.3.2---waste-management/dist/public/index.html)
