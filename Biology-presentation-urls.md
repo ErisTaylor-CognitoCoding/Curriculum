@@ -113,3 +113,4 @@
 - - [5.2.2.2 - State symbols](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.2.2---state-symbols/dist/public/index.html)
 - - [5.3.1.2 - Relative formula mass](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.3.1.2---relative-formula-mass/dist/public/index.html)
 - - [5.4.3.3 - Using electrolysis to extract metals](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.3.3---using-electrolysis-to-extract-metals/dist/public/index.html)
+- - [5.4.2.1 - Reactions of acids with metals](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.2.1---reactions-of-acids-with-metals/dist/public/index.html)
