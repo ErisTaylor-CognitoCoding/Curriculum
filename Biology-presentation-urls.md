@@ -160,3 +160,4 @@
 - - [6.3.2.2 - Temperature changes in a system and specific heat capacity](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.3.2.2---temperature-changes-in-a-system-and-specific-heat-capacity/dist/public/index.html)
 - - [6.3.2.3 - Changes of state and specific latent heat](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.3.2.3---changes-of-state-and-specific-latent-heat/dist/public/index.html)
 - - [6.7.2.1 - Electromagnetism](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.7.2.1---electromagnetism/dist/public/index.html)
+- - [6.7.2.2 - Fleming's left-hand rule (HT only)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.7.2.2---fleming's-left-hand-rule-(ht-only)/dist/public/index.html)
