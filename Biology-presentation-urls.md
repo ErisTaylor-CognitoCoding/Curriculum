@@ -158,3 +158,4 @@
 - - [6.1.2.1 - Energy transfers in a system](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.1.2.1---energy-transfers-in-a-system/dist/public/index.html)
 - - [6.1.2.2 - Efficiency](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.1.2.2---efficiency/dist/public/index.html)
 - - [6.3.2.2 - Temperature changes in a system and specific heat capacity](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.3.2.2---temperature-changes-in-a-system-and-specific-heat-capacity/dist/public/index.html)
+- - [6.3.2.3 - Changes of state and specific latent heat](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.3.2.3---changes-of-state-and-specific-latent-heat/dist/public/index.html)
