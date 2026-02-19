@@ -178,3 +178,4 @@
 - - [6.4.1.2 - Mass number, atomic number and isotopes](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.4.1.2---mass-number,-atomic-number-and-isotopes/dist/public/index.html)
 - - [6.4.1.3 - The development of the model of the atom](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.4.1.3---the-development-of-the-model-of-the-atom/dist/public/index.html)
 - - [6.2.1.2 - Electrical charge and current](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.2.1.2---electrical-charge-and-current/dist/public/index.html)
+- - [6.2.1.3 - Current, resistance and potential difference](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.2.1.3---current,-resistance-and-potential-difference/dist/public/index.html)
