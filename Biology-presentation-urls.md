@@ -89,3 +89,4 @@
 - - [5.1.2.3 - Metals and non-metals](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.2.3---metals-and-non-metals/dist/public/index.html)
 - - [5.2.1.4 - Covalent bonding](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.1.4---covalent-bonding/dist/public/index.html)
 - - [5.2.2.5 - Polymers](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.2.5---polymers/dist/public/index.html)
+- - [5.2.2.6 - Giant covalent structures](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.2.6---giant-covalent-structures/dist/public/index.html)
