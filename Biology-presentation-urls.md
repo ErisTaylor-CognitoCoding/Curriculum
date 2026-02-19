@@ -101,3 +101,4 @@
 - - [5.3.1.1 - Conservation of mass and balanced chemical equations](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.3.1.1---conservation-of-mass-and-balanced-chemical-equations/dist/public/index.html)
 - - [5.1.2.5 - Group 1](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.1.2.5---group-1/dist/public/index.html)
 - - [5.2.2.1 - The three states of matter](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.2.1---the-three-states-of-matter/dist/public/index.html)
+- - [5.2.2.7 - Properties of metals and alloys](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.2.2.7---properties-of-metals-and-alloys/dist/public/index.html)
