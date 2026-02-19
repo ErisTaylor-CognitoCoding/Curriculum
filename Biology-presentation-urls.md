@@ -165,3 +165,4 @@
 - - [6.4.1.1 - The structure of an atom](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.4.1.1---the-structure-of-an-atom/dist/public/index.html)
 - - [6.5.5.1 - Momentum is a property of moving objects](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.5.1---momentum-is-a-property-of-moving-objects/dist/public/index.html)
 - - [6.5.5.2 - Conservation of momentum](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.5.2---conservation-of-momentum/dist/public/index.html)
+- - [6.1.3 - National and global energy resources](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.1.3---national-and-global-energy-resources/dist/public/index.html)
