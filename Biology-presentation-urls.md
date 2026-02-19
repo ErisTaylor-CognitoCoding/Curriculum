@@ -60,3 +60,4 @@
 - - [4.6.2.1 - Variation](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.6.2.1---variation/dist/public/index.html)
 - - [4.6.2.2 - Evolution](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.6.2.2---evolution/dist/public/index.html)
 - - [4.5.3.3 - Hormones in human reproduction](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.5.3.3---hormones-in-human-reproduction/dist/public/index.html)
+- - [4.5.3.4 - Contraception](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.5.3.4---contraception/dist/public/index.html)
