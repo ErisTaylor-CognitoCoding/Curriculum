@@ -135,3 +135,4 @@
 - - [6.2.4.3 - The National Grid](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.2.4.3---the-national-grid/dist/public/index.html)
 - - [6.3.1.1 - Density of materials](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.3.1.1---density-of-materials/dist/public/index.html)
 - - [6.1.1.1 - Energy stores and systems](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.1.1.1---energy-stores-and-systems/dist/public/index.html)
+- - [6.5.4.2.2 - Newton's Second Law](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Physics/6.5.4.2.2---newton's-second-law/dist/public/index.html)
