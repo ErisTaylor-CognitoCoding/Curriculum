@@ -42,3 +42,4 @@
 - - [4.1.2.2 - Mitosis and the cell cycle](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.1.2.2---mitosis-and-the-cell-cycle/dist/public/index.html)
 - - [4.1.2.3 - Stem cells](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.1.2.3---stem-cells/dist/public/index.html)
 - - [4.3.1.2 - Viral diseases](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.3.1.2---viral-diseases/dist/public/index.html)
+- - [4.3.1.3 - Bacterial diseases](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.3.1.3---bacterial-diseases/dist/public/index.html)
