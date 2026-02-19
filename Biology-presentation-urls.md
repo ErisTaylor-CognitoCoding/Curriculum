@@ -115,3 +115,4 @@
 - - [5.4.3.3 - Using electrolysis to extract metals](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.3.3---using-electrolysis-to-extract-metals/dist/public/index.html)
 - - [5.4.2.1 - Reactions of acids with metals](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.4.2.1---reactions-of-acids-with-metals/dist/public/index.html)
 - - [5.3.2.3 - Using moles to balance equations (HT only)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.3.2.3---using-moles-to-balance-equations-(ht-only)/dist/public/index.html)
+- - [5.6.1.2 - Factors which affect the rates of chemical reactions](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Chemistry/5.6.1.2---factors-which-affect-the-rates-of-chemical-reactions/dist/public/index.html)
