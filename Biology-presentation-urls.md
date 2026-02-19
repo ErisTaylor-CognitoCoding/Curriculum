@@ -7,3 +7,4 @@
 - - [4.5.3.5 - The use of hormones to treat infertility (HT only)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.5.3.5---the-use-of-hormones-to-treat-infertility-(ht-only)/dist/public/index.html)
 - - [4.5.3.6 - Feedback systems (HT only)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.5.3.6---feedback-systems-(ht-only)/dist/public/index.html)
 - - [4.4.1.1 - Photosynthetic reaction](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.4.1.1---photosynthetic-reaction/dist/public/index.html)
+- - [4.4.1.2 - Rate of photosynthesis](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.4.1.2---rate-of-photosynthesis/dist/public/index.html)
