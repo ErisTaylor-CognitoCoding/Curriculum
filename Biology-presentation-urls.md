@@ -32,3 +32,4 @@
 - - [4.1.2.1 - Chromosomes](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.1.2.1---chromosomes/dist/public/index.html)
 - - [4.2.3.2 - Plant organ system](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.2.3.2---plant-organ-system/dist/public/index.html)
 - - [4.3.1.1 - Communicable (infectious) diseases](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.3.1.1---communicable-(infectious)-diseases/dist/public/index.html)
+- - [4.6.3.3 - Extinction](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Biology/4.6.3.3---extinction/dist/public/index.html)
