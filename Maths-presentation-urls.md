@@ -14,3 +14,4 @@
 - - [1.4 - Reciprocals and exact fractions](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.4---reciprocals-and-exact-fractions/dist/public/index.html)
 - - [2.12 - Direct and inverse proportion](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.12---direct-and-inverse-proportion/dist/public/index.html)
 - - [3.1 - Compound measures (pressure, density, speed)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/3.1---compound-measures-(pressure,-density,-speed)/dist/public/index.html)
+- - [4.9 - Vectors (2D, magnitude, operations)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.9---vectors-(2d,-magnitude,-operations)/dist/public/index.html)
