@@ -10,3 +10,4 @@
 - - [4.8 - Arcs, sectors, and segments](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.8---arcs,-sectors,-and-segments/dist/public/index.html)
 - - [6.4 - Scatter graphs and correlation](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.4---scatter-graphs-and-correlation/dist/public/index.html)
 - - [6.5 - Time series graphs](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.5---time-series-graphs/dist/public/index.html)
+- - [1.3 - Surds (simplifying and rationalising)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.3---surds-(simplifying-and-rationalising)/dist/public/index.html)
