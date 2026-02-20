@@ -7,3 +7,4 @@
 - - [2.10 - Reciprocal and exponential graphs](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.10---reciprocal-and-exponential-graphs/dist/public/index.html)
 - - [2.11 - Gradient of curves and areas under graphs](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.11---gradient-of-curves-and-areas-under-graphs/dist/public/index.html)
 - - [4.7 - Circle theorems and proofs](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.7---circle-theorems-and-proofs/dist/public/index.html)
+- - [4.8 - Arcs, sectors, and segments](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.8---arcs,-sectors,-and-segments/dist/public/index.html)
