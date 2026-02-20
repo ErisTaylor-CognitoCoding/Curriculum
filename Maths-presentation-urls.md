@@ -12,3 +12,4 @@
 - - [6.5 - Time series graphs](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.5---time-series-graphs/dist/public/index.html)
 - - [1.3 - Surds (simplifying and rationalising)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.3---surds-(simplifying-and-rationalising)/dist/public/index.html)
 - - [1.4 - Reciprocals and exact fractions](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.4---reciprocals-and-exact-fractions/dist/public/index.html)
+- - [2.12 - Direct and inverse proportion](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.12---direct-and-inverse-proportion/dist/public/index.html)
