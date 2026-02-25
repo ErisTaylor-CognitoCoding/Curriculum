@@ -9,3 +9,4 @@
 - - [5.2 - Venn diagrams (probability notation)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/5.2---venn-diagrams-(probability-notation)/dist/public/index.html)
 - - [5.3 - Conditional probability P(A|B)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/5.3---conditional-probability-p(a|b)/dist/public/index.html)
 - - [2.2 - Factorising quadratic expressions](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.2---factorising-quadratic-expressions/dist/public/index.html)
+- - [2.3 - Solving quadratic equations](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.3---solving-quadratic-equations/dist/public/index.html)
