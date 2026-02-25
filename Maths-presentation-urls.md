@@ -25,3 +25,4 @@
 - - [2.8 - Iterative methods for solving equations](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.8---iterative-methods-for-solving-equations/dist/public/index.html)
 - - [2.9 - Equation of a circle](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.9---equation-of-a-circle/dist/public/index.html)
 - - [6.2 - Estimating median, quartiles, and IQR](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.2---estimating-median,-quartiles,-and-iqr/dist/public/index.html)
+- - [6.3 - Histograms (frequency density, unequal class widths)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.3---histograms-(frequency-density,-unequal-class-widths)/dist/public/index.html)
