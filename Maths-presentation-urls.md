@@ -18,3 +18,4 @@
 - - [4.4 - Area of triangle = ½ab sin C](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.4---area-of-triangle-=-½ab-sin-c/dist/public/index.html)
 - - [5.4 - Set notation for probability](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/5.4---set-notation-for-probability/dist/public/index.html)
 - - [6.1 - Cumulative frequency graphs](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.1---cumulative-frequency-graphs/dist/public/index.html)
+- - [2.6 - Algebraic fractions](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.6---algebraic-fractions/dist/public/index.html)
