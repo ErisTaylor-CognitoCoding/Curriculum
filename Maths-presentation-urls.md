@@ -23,3 +23,4 @@
 - - [3.2 - Growth and decay (exponential, compound interest)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/3.2---growth-and-decay-(exponential,-compound-interest)/dist/public/index.html)
 - - [3.3 - Direct and inverse proportion (graphical and algebraic)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/3.3---direct-and-inverse-proportion-(graphical-and-algebraic)/dist/public/index.html)
 - - [6.6 - Comparing distributions (box plots, histograms) (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.6---comparing-distributions-(box-plots,-histograms)-(part-1)/dist/public/index.html)
+- - [6.6 - Comparing distributions (box plots, histograms) (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.6---comparing-distributions-(box-plots,-histograms)-(part-2)/dist/public/index.html)
