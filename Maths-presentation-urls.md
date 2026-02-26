@@ -4,3 +4,4 @@
 - - [6.3 - Histograms (frequency density, unequal class widths)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.3---histograms-(frequency-density,-unequal-class-widths)/dist/public/index.html)
 - - [1.1 - Calculations with bounds](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.1---calculations-with-bounds/dist/public/index.html)
 - - [1.2 - Standard form calculations](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.2---standard-form-calculations/dist/public/index.html)
+- - [2.10 - Reciprocal and exponential graphs](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.10---reciprocal-and-exponential-graphs/dist/public/index.html)
