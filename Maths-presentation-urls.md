@@ -6,3 +6,4 @@
 - - [1.2 - Standard form calculations](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.2---standard-form-calculations/dist/public/index.html)
 - - [2.10 - Reciprocal and exponential graphs](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.10---reciprocal-and-exponential-graphs/dist/public/index.html)
 - - [2.11 - Gradient of curves and areas under graphs](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.11---gradient-of-curves-and-areas-under-graphs/dist/public/index.html)
+- - [4.7 - Circle theorems and proofs](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.7---circle-theorems-and-proofs/dist/public/index.html)
