@@ -37,3 +37,4 @@
 - - [4.1 - Pythagoras' theorem in 3D](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.1---pythagoras'-theorem-in-3d/dist/public/index.html)
 - - [2.4 - Simultaneous equations (linear and quadratic)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.4---simultaneous-equations-(linear-and-quadratic)/dist/public/index.html)
 - - [2.5 - Linear and quadratic inequalities](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.5---linear-and-quadratic-inequalities/dist/public/index.html)
+- - [4.3 - Sine and cosine rules](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.3---sine-and-cosine-rules/dist/public/index.html)
