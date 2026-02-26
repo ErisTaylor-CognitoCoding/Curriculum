@@ -25,3 +25,4 @@
 - - [6.6 - Comparing distributions (box plots, histograms) (Part 1)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.6---comparing-distributions-(box-plots,-histograms)-(part-1)/dist/public/index.html)
 - - [6.6 - Comparing distributions (box plots, histograms) (Part 2)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.6---comparing-distributions-(box-plots,-histograms)-(part-2)/dist/public/index.html)
 - - [3.4 - Repeated percentage change](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/3.4---repeated-percentage-change/dist/public/index.html)
+- - [3.5 - Scale factors for area and volume](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/3.5---scale-factors-for-area-and-volume/dist/public/index.html)
