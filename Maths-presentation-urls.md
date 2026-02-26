@@ -16,3 +16,4 @@
 - - [3.1 - Compound measures (pressure, density, speed)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/3.1---compound-measures-(pressure,-density,-speed)/dist/public/index.html)
 - - [4.9 - Vectors (2D, magnitude, operations)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.9---vectors-(2d,-magnitude,-operations)/dist/public/index.html)
 - - [4.10 - Transformations (including column vectors)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.10---transformations-(including-column-vectors)/dist/public/index.html)
+- - [1.5 - Product of primes for HCF/LCM](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/1.5---product-of-primes-for-hcf-lcm/dist/public/index.html)
