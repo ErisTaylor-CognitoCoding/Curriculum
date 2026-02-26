@@ -43,3 +43,4 @@
 - - [6.1 - Cumulative frequency graphs](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/6.1---cumulative-frequency-graphs/dist/public/index.html)
 - - [2.6 - Algebraic fractions](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.6---algebraic-fractions/dist/public/index.html)
 - - [2.7 - Functions (notation, composite, inverse)](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/2.7---functions-(notation,-composite,-inverse)/dist/public/index.html)
+- - [4.5 - Exact trig values](https://eristaylor-cognitocoding.github.io/Curriculum/Revision-Guides/Maths/4.5---exact-trig-values/dist/public/index.html)
